@@ -10,12 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxt/fonts": "0.12.1",
-    "@tailwindcss/vite": "^4.1.18",
-    "nuxt": "^4.2.2",
-    "tailwindcss": "^4.1.18",
-    "vue": "^3.5.26",
-    "vue-router": "^4.6.4"
+    "@nuxt/fonts": "0.14.0",
+    "@tailwindcss/vite": "^4.2.1",
+    "nuxt": "^4.3.1",
+    "tailwindcss": "^4.2.1",
+    "vue": "^3.5.30",
+    "vue-router": "^5.0.3"
   },
-  "packageManager": "pnpm@10.28.0+sha512.05df71d1421f21399e053fde567cea34d446fa02c76571441bfc1c7956e98e363088982d940465fd34480d4d90a0668bc12362f8aa88000a64e83d0b0e47be48"
+  "packageManager": "pnpm@10.32.1+sha512.a706938f0e89ac1456b6563eab4edf1d1faf3368d1191fc5c59790e96dc918e4456ab2e67d613de1043d2e8c81f87303e6b40d4ffeca9df15ef1ad567348f2be"
 }
